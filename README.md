@@ -1,7 +1,7 @@
 # perlin-noise-flow-field
 simulating particle flow using perlin noise
 
-[demo](https://youtu.be/DKbkvsXnOwc)
+[video demo](https://youtu.be/ARsJWvGMClQ)
 
 ![](vectorfield.gif)
 ![](perlinnoise.gif)
